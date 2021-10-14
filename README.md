@@ -8,7 +8,7 @@ Unofficial fork by Lisias.
 ## In a Hurry
 
 * [Latest Release](https://github.com/net-lisias-kspu/AirplanePlus/releases)
-	+ [Binaries](https://github.com/net-lisias-kspu/AirplanePlus/tree/Archive)
+	+ [Binaries](https://gitlab.com/net-lisias-ksph/AirplanePlus/-/tree/Archive)
 * [Source](https://github.com/net-lisias-kspu/AirplanePlus)
 * Documentation
 	+ [Project's README](https://github.com/net-lisias-kspu/AirplanePlus/blob/master/README.md)
