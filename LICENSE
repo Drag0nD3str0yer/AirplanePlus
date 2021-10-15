@@ -1,0 +1,25 @@
+Airplane+ is licensed as follows:
+
+# Source Code
+
+Source code on the subdirectory Source (and the respective compiled code, DLLs) are double licensed under:
+
+* GPLv2
+* SKLv1
+
+And you has the choice to choose the license that best suits your needs.
+
+# Assets
+
+Unless explicitly stated otherwise, all assets under the following subdirectories on GameData/AirplanePlus:
+
+* Agencies
+* Compatibility
+* FX
+* Parts
+* Props
+* Sounds
+* Spaces
+
+are licensed under the CC-BY-SA 4.0 International.
+
