@@ -80,6 +80,7 @@ Source code on the subdirectory [Source](./Source) (and the respective compiled 
 		- You don't impersonate the authors, neither redistribute a derivative that could be misrepresented as theirs.
 		- You credit the author and republish the copyright notices on your works where the code is used.
 		- You relicense (and fully comply) your works using GPL 2.0 (or later)
+			- Please note that upgrading the license to GPLv3 **IS NOT ALLOWED** for this work, as the author **DID NOT** added the "or (at your option) any later version" on the license.
 		- You don't mix your work with GPL incompatible works.
 * If by some reason the GPL would be invalid for you, rest assured that you still retain the right to Use the Work under SKL 1.0.
 
@@ -97,7 +98,7 @@ Unless explicitly stated otherwise, all assets under the following subdirectorie
 * [Sounds](./GameData/AirplanePlus/Sounds)
 * [Spaces](./GameData/AirplanePlus/Spaces)
 
-are licensed under the [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/?), what allows you to:
+are ©[blackheart612](https://forum.kerbalspaceprogram.com/index.php?/profile/42741-blackheart612/) and licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/?), what allows you to:
 
 * copy and redistribute the material in any medium or format
 * create derivatives
